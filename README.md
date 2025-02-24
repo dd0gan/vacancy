@@ -1,4 +1,6 @@
 FULLSTACK DEVELOPER FINAL ASSIGNMENT PROJECT
+----------------------------------------------------------------------
+
 PROJECT NAME : Vacancy 
 ----------------------------------------------------------------------
 Project Description :Vacancy Web is a Java spring-boot react web application that allows the system owner to post the vacancy and let people apply for the position.
