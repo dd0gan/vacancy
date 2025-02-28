@@ -42,7 +42,7 @@ import {
 } from "react-router-dom";
 
 import { usePromiseTracker } from "react-promise-tracker";
-import Loader from 'react-promise-loader';
+import * as Loader from "react-loader-spinner";
 import { ProtectedRoute } from './auth/authUtil';
 
 import './config/axiosConfig';
